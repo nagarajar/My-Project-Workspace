@@ -578,3 +578,23 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment 
 2022-11-14 18:52:19,289 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Demo-Maven-Web-App
 2022-11-14 18:52:19,289 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Demo-Maven-Web-App
 2022-11-14 18:52:19,291 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:11:28,854 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-11-14 19:12:58,427 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-11-14 19:12:58,855 [Worker-38: Launching Demo-Maven-Web-App] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Ashok IT\22-JRTP\maven workspace\Demo-Maven-Web-App
+2022-11-14 19:12:58,863 [Worker-38: Launching Demo-Maven-Web-App] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2022-11-14 19:13:22,310 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-11-14 19:13:59,214 [Worker-43: Launching Executing clean in D__Ashok IT_22-JRTP_maven workspace_Demo-Maven-Web-App] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Ashok IT\22-JRTP\maven workspace\Demo-Maven-Web-App
+2022-11-14 19:13:59,214 [Worker-43: Launching Executing clean in D__Ashok IT_22-JRTP_maven workspace_Demo-Maven-Web-App] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2022-11-14 19:14:01,293 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:14:01,293 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Ashok IT\22-JRTP\maven workspace\Demo-Maven-Web-App\src\main\resources
+2022-11-14 19:14:01,294 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:14:01,294 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Ashok IT\22-JRTP\maven workspace\Demo-Maven-Web-App\src\test\resources
+2022-11-14 19:14:01,294 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Demo-Maven-Web-App
+2022-11-14 19:14:01,294 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Demo-Maven-Web-App
+2022-11-14 19:14:01,297 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:14:15,651 [Worker-48: Launching Executing install in D__Ashok IT_22-JRTP_maven workspace_Demo-Maven-Web-App] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Ashok IT\22-JRTP\maven workspace\Demo-Maven-Web-App
+2022-11-14 19:14:15,651 [Worker-48: Launching Executing install in D__Ashok IT_22-JRTP_maven workspace_Demo-Maven-Web-App] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2022-11-14 19:14:19,184 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:14:19,184 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Ashok IT\22-JRTP\maven workspace\Demo-Maven-Web-App\src\main\resources
+2022-11-14 19:14:19,185 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:14:19,185 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Ashok IT\22-JRTP\maven workspace\Demo-Maven-Web-App\src\test\resources
