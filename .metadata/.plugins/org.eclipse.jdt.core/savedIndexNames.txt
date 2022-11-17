@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+D:\Ashok IT\22-JRTP\maven workspace\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-1479212941.index
-2644357854.index
-354165372.index
-2442661193.index
